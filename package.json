@@ -1,0 +1,26 @@
+{
+  "name": "@thatforgot/number-formatter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thatforgot/number-formatter.git"
+  },
+  "author": "thatforgot <doesnot@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thatforgot/number-formatter/issues"
+  },
+  "homepage": "https://github.com/thatforgot/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.4"
+  }
+}
